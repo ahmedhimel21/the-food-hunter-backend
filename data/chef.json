@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "chefName": "Mehmet Gürs",
+    "img": "https://i.ibb.co/W3hFByF/chef1.jpg",
+    "experience": "12 Years",
+    "like": 4999,
+    "number": 39,
+    "recipe": [
+      {
+        "name": "Beef Roast",
+        "ingredients": ["Beef", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place beef roast in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 4.9
+      },
+      {
+        "name": "Chicken Curry",
+        "ingredients": ["Chicken", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place chicken in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 4.2
+      },
+      {
+        "name": "Mutton Curry",
+        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place Mutton in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 4.1
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "chefName": "Fatih Tutak",
+    "img": "https://i.ibb.co/0rnBLth/chef2.jpg",
+    "experience": "8 Years",
+    "like": 3999,
+    "number": 21,
+    "recipe": [
+      {
+        "name": "Noodles",
+        "ingredients": ["Noodles", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place noodles in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 4.6
+      },
+      {
+        "name": "Curried Lentils and Rice",
+        "ingredients": [
+          "Beef",
+          "Onion",
+          "Soyabin",
+          "Chile",
+          "Tamarind",
+          "Rice"
+        ],
+        "steps": [
+          "Place beef and rice in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 5
+      },
+      {
+        "name": "Mutton Curry",
+        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place Mutton in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 4.0
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "chefName": "Ali Güngörmüş",
+    "img": "https://i.ibb.co/RD0rHck/chef3.jpg",
+    "experience": "9 Years",
+    "like": 6200,
+    "number": 13,
+    "recipe": [
+      {
+        "name": "Chicken Pakora",
+        "ingredients": ["Chicken", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place chicken in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 4.8
+      },
+      {
+        "name": "Fried Rice",
+        "ingredients": [
+          "Chicken",
+          "Onion",
+          "Soyabin",
+          "Chile",
+          "Tamarind",
+          "Rice"
+        ],
+        "steps": [
+          "Place beef and rice in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 4.5
+      },
+      {
+        "name": "Mutton Curry",
+        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place Mutton in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 3.5
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "chefName": "Nusret Gökçe",
+    "img": "https://i.ibb.co/c8v8y0Y/chef4.jpg",
+    "experience": "16 Years",
+    "like": 7999,
+    "number": 69,
+    "recipe": [
+      {
+        "name": "Chicken Pakora",
+        "ingredients": ["Chicken", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place chicken in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 4.9
+      },
+      {
+        "name": "Fried Rice",
+        "ingredients": [
+          "Chicken",
+          "Onion",
+          "Soyabin",
+          "Chile",
+          "Tamarind",
+          "Rice"
+        ],
+        "steps": [
+          "Place beef and rice in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 5
+      },
+      {
+        "name": "Mutton Curry",
+        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place Mutton in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 3.63
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefName": " CZN Burak",
+    "img": "https://i.ibb.co/YbJD7jn/chef5.jpg",
+    "experience": "14 Years",
+    "like": 9999,
+    "number": 31,
+    "recipe": [
+      {
+        "name": "Chicken ",
+        "ingredients": ["Chicken", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place chicken in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 3.9
+      },
+      {
+        "name": "Beef Roast",
+        "ingredients": ["Beef", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place beef and rice in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 4.9
+      },
+      {
+        "name": "Mutton Curry",
+        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place Mutton in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefName": "Maksut Aşkar",
+    "img": "https://i.ibb.co/2qPsND0/chef6.jpg",
+    "experience": "18 Years",
+    "like": 2500,
+    "number": 35,
+    "recipe": [
+      {
+        "name": "Chicken ",
+        "ingredients": ["Chicken", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place chicken in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 5
+      },
+      {
+        "name": "Beef Roast",
+        "ingredients": ["Beef", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place beef and rice in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 4
+      },
+      {
+        "name": "Mutton Curry",
+        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "steps": [
+          "Place Mutton in crock pot.",
+          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+          "Pour the water around the roast.",
+          "Cook on low for 7-9 hours."
+        ],
+        "rating": 3
+      }
+    ]
+  }
+]
