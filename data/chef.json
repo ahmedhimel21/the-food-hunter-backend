@@ -8,38 +8,38 @@
     "number": 39,
     "recipe": [
       {
-        "_id": 1, 
-        "name": "Beef Roast",
-        "ingredients": ["Beef", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "_id": 1,
+        "name": "EZME",
+        "ingredients": ["Tomatoes", "Onion", "pepper", "Spices", "Olive oil"],
         "steps": [
-          "Place beef roast in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "The main ingredient used in this recipe is tomatoes. Make sure you’re using high quality tomatoes, just like you do for Gavurdagi (Turkish tomato walnut salad) especially if they are not in season. I prefer to make this salsa in summer because that is when tomatoes are in their prime.",
+          "While using a food processor is much easier, it’s best to make this dish using a chef’s knife and chop the ingredients finely by hand.",
+          "If time permits, refrigerate it for 30 minutes before serving for the flavors to incorporate."
         ],
         "rating": 4.9
       },
       {
         "_id": 2,
-        "name": "Chicken Curry",
-        "ingredients": ["Chicken", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "name": "DONER KEBAB",
+        "ingredients": ["Ground beef or lamb", "Onion", "Yogurt", "Spices"],
         "steps": [
-          "Place chicken in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "Use meat with 15% to 20% fat or a combination of beef and lamb for the best results.",
+          "Since you're cooking thinly sliced frozen meat, it's best to use a large pan so you can cook as many pieces as possible in one round.",
+          "You need to use some elbow grease and mix the meat and onions with the spices really, really well until it's sticky and very well combines. This way you make sure that the meat mixture is easily sliceable. You can also use a food processor to blend the mixture.",
+          "Super important! Make sure to roll the meat very tightly so it's dense and you can later slice it easily."
         ],
         "rating": 4.2
       },
       {
         "_id": 3,
-        "name": "Mutton Curry",
-        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "name": "ZUCCHINI STEW",
+        "ingredients": ["Olive oil", "Zucchini", "Tomato paste", "Rice"],
         "steps": [
-          "Place Mutton in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "Cut the zucchini into half moons and set aside.",
+          "Sauté onion and garlic in some olive oil over medium heat.",
+          "Add in the tomato paste and cook for a few minutes so it releases its color and aroma.",
+          "Add in the zucchini and cook for 5 minutes.",
+          "Rinse the rice and add it to the zucchini. Add in the spices and water. Bring it to a low simmer, cover and cook for 20 to 25 minutes."
         ],
         "rating": 4.1
       }
@@ -56,44 +56,48 @@
     "recipe": [
       {
         "_id": 1,
-        "name": "Noodles",
-        "ingredients": ["Noodles", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "name": "PIDE BREAD",
+        "ingredients": [
+          "Milk",
+          "Instant dry yeast",
+          "Egg",
+          "All purpose flour",
+          "Yogurt"
+        ],
         "steps": [
-          "Place noodles in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "It's common to make large Turkish pide bread as well. To do so, cut the dough into 2 pieces instead of 8 and proceed with the recipe as instructed. Bake at 400ºF for 20 to 25 minutes until the top is golden. ",
+          "It's important to cover the pide with damp paper towel once it's out of the oven to keep it soft. ",
+          "sprinkle very little water on the bread and heat in the oven at 250ºF for 5 to10 minutes. ",
+          "Make sure to brush the dough balls with the glaze as it would make rolling out the dough much easier. You don't need to use a rolling pin to roll out the dough. "
         ],
         "rating": 4.6
       },
       {
         "_id": 2,
-        "name": "Curried Lentils and Rice",
+        "name": "SUMAC ONIONS",
         "ingredients": [
-          "Beef",
-          "Onion",
-          "Soyabin",
-          "Chile",
-          "Tamarind",
-          "Rice"
+          "Red onion",
+          "Sumac",
+          "Parsley",
+          "Lemon",
+          "Olive oil",
+          "Seasoning"
         ],
         "steps": [
-          "Place beef and rice in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "Peel the onions and slice them thinly crosswise or lengthwise. Place them in a bowl and make sure the onion slices are not stuck to each other.",
+          "Add the chopped parsley, sumac, lemon juice, olive oil, salt, pepper and Aleppo pepper to the onion. Stir well to combine.",
+          "You can serve it immediately or cover it and refrigerate for 30 minutes before serving it as a condiment or topping alongside kebabs, chicken or sandwiches."
         ],
         "rating": 5
       },
       {
         "_id": 3,
-        "name": "Mutton Curry",
-        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "name": "CHICKEN STEW",
+        "ingredients": ["Chicken", "Vegetables", "Spices", "Tomato paste"],
         "steps": [
-          "Place Mutton in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "Heat the olive oil in a Dutch oven or a large pot over medium high heat. Sauté the chicken for a few minutes until it starts changing color. Add in the onion and garlic and cook for a few more minutes.",
+          "Add in the carrots and potatoes followed by the spices. Give it a nice stir and add the tomato paste and peas. Pour in 4 cups of water and bring it to a simmer.",
+          "Cover and cook for 45 minutes until the vegetables are tender and the chicken is cooked. Finish with some freshly squeezed lemon juice."
         ],
         "rating": 4.0
       }
@@ -110,44 +114,47 @@
     "recipe": [
       {
         "_id": 1,
-        "name": "Chicken Pakora",
-        "ingredients": ["Chicken", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "name": "ROASTED CHICKEN AND VEGETABLES",
+        "ingredients": ["Chicken", "Spices", "Vegetables", "Sauce"],
         "steps": [
-          "Place chicken in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "In a large bowl mix the lemon juice and olive oil with oregano, paprika, cumin and coriander. Add the chicken and using a pair of tongs, toss it to make sure every piece is coated with the marinade.",
+          "Chop all the vegetables into pieces. Arrange the potatoes, onions and half of the peppers in a deep oven safe dish. Top with the chicken and the remaining peppers, onions and tomatoes. Make the sauce by mixing the olive oil and water with garlic and spices. Drizzle over the chicken and vegetables.",
+          "Roast the chicken and vegetables in the oven at 375 degrees F for about 1 hour until the chicken and vegetables are fully cooked and tender."
         ],
         "rating": 4.8
       },
       {
         "_id": 2,
-        "name": "Fried Rice",
+        "name": "WHITE BEAN SALAD",
         "ingredients": [
-          "Chicken",
-          "Onion",
-          "Soyabin",
-          "Chile",
-          "Tamarind",
-          "Rice"
+          "White beans",
+          "Tomatoes",
+          "Red onion",
+          "Parsley",
+          "Olive oil"
         ],
         "steps": [
-          "Place beef and rice in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "Wash and dry the tomatoes and parsley.",
+          "If using canned beans, make sure you drain the excess water, rinse and drain them and then place them in a large bowl.",
+          " Finely chop the parsley, dice the tomatoes, and add them both to the white beans. Thinly slice the red onion and mix it in to the salad as well. Give it all a nice stir and set it aside. ",
+          "In a small bowl mix sumac, Aleppo pepper, and salt. Add in lemon juice and extra virgin olive oil and stir well. Pour the dressing over the salad and toss it so all the ingredients are incorporated."
         ],
         "rating": 4.5
       },
       {
         "_id": 3,
-        "name": "Mutton Curry",
-        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "name": "BRAISED LEEKS",
+        "ingredients": [
+          "Olive oil",
+          "Onion and garlic",
+          "Leeks",
+          "Tomato paste"
+        ],
         "steps": [
-          "Place Mutton in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "Slice off and discard the dark green parts of the leek and trim the end as well. Slice the leek lengthwise and wash it thoroughly, especially the white parts since there might be dirt there. Leave it to dry. Thinly slice the leeks and set aside.",
+          "Heat the olive oil in a pan over medium heat and saute the onion until translucent. Add the leeks followed by the garlic and saute for 10 more minutes.",
+          "Add in the tomato paste, salt and pepper. Stir to combine and then add 1 cup of water. Bring to a low simmer, cover and cook for 30 minutes.",
+          "Add a good glug of olive oil to the braised leeks. Turn the heat off and let it sit for 15 minutes."
         ],
         "rating": 3.5
       }
@@ -164,46 +171,39 @@
     "recipe": [
       {
         "_id": 1,
-        "name": "Chicken Pakora",
-        "ingredients": ["Chicken", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "name": "EZME",
+        "ingredients": ["Tomatoes", "Onion", "pepper", "Spices", "Olive oil"],
         "steps": [
-          "Place chicken in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "The main ingredient used in this recipe is tomatoes. Make sure you’re using high quality tomatoes, just like you do for Gavurdagi (Turkish tomato walnut salad) especially if they are not in season. I prefer to make this salsa in summer because that is when tomatoes are in their prime.",
+          "While using a food processor is much easier, it’s best to make this dish using a chef’s knife and chop the ingredients finely by hand.",
+          "If time permits, refrigerate it for 30 minutes before serving for the flavors to incorporate."
         ],
         "rating": 4.9
       },
       {
         "_id": 2,
-        "name": "Fried Rice",
-        "ingredients": [
-          "Chicken",
-          "Onion",
-          "Soyabin",
-          "Chile",
-          "Tamarind",
-          "Rice"
-        ],
+        "name": "DONER KEBAB",
+        "ingredients": ["Ground beef or lamb", "Onion", "Yogurt", "Spices"],
         "steps": [
-          "Place beef and rice in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "Use meat with 15% to 20% fat or a combination of beef and lamb for the best results.",
+          "Since you're cooking thinly sliced frozen meat, it's best to use a large pan so you can cook as many pieces as possible in one round.",
+          "You need to use some elbow grease and mix the meat and onions with the spices really, really well until it's sticky and very well combines. This way you make sure that the meat mixture is easily sliceable. You can also use a food processor to blend the mixture.",
+          "Super important! Make sure to roll the meat very tightly so it's dense and you can later slice it easily."
         ],
-        "rating": 5
+        "rating": 4.2
       },
       {
         "_id": 3,
-        "name": "Mutton Curry",
-        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "name": "ZUCCHINI STEW",
+        "ingredients": ["Olive oil", "Zucchini", "Tomato paste", "Rice"],
         "steps": [
-          "Place Mutton in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "Cut the zucchini into half moons and set aside.",
+          "Sauté onion and garlic in some olive oil over medium heat.",
+          "Add in the tomato paste and cook for a few minutes so it releases its color and aroma.",
+          "Add in the zucchini and cook for 5 minutes.",
+          "Rinse the rice and add it to the zucchini. Add in the spices and water. Bring it to a low simmer, cover and cook for 20 to 25 minutes."
         ],
-        "rating": 3.63
+        "rating": 4.1
       }
     ]
   },
@@ -217,39 +217,50 @@
     "recipe": [
       {
         "_id": 1,
-        "name": "Chicken ",
-        "ingredients": ["Chicken", "Onion", "Soyabin", "Chile", "Tamarind"],
-        "steps": [
-          "Place chicken in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+        "name": "PIDE BREAD",
+        "ingredients": [
+          "Milk",
+          "Instant dry yeast",
+          "Egg",
+          "All purpose flour",
+          "Yogurt"
         ],
-        "rating": 3.9
+        "steps": [
+          "It's common to make large Turkish pide bread as well. To do so, cut the dough into 2 pieces instead of 8 and proceed with the recipe as instructed. Bake at 400ºF for 20 to 25 minutes until the top is golden. ",
+          "It's important to cover the pide with damp paper towel once it's out of the oven to keep it soft. ",
+          "sprinkle very little water on the bread and heat in the oven at 250ºF for 5 to10 minutes. ",
+          "Make sure to brush the dough balls with the glaze as it would make rolling out the dough much easier. You don't need to use a rolling pin to roll out the dough. "
+        ],
+        "rating": 4.6
       },
       {
         "_id": 2,
-        "name": "Beef Roast",
-        "ingredients": ["Beef", "Onion", "Soyabin", "Chile", "Tamarind"],
-        "steps": [
-          "Place beef and rice in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+        "name": "SUMAC ONIONS",
+        "ingredients": [
+          "Red onion",
+          "Sumac",
+          "Parsley",
+          "Lemon",
+          "Olive oil",
+          "Seasoning"
         ],
-        "rating": 4.9
+        "steps": [
+          "Peel the onions and slice them thinly crosswise or lengthwise. Place them in a bowl and make sure the onion slices are not stuck to each other.",
+          "Add the chopped parsley, sumac, lemon juice, olive oil, salt, pepper and Aleppo pepper to the onion. Stir well to combine.",
+          "You can serve it immediately or cover it and refrigerate for 30 minutes before serving it as a condiment or topping alongside kebabs, chicken or sandwiches."
+        ],
+        "rating": 5
       },
       {
         "_id": 3,
-        "name": "Mutton Curry",
-        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "name": "CHICKEN STEW",
+        "ingredients": ["Chicken", "Vegetables", "Spices", "Tomato paste"],
         "steps": [
-          "Place Mutton in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "Heat the olive oil in a Dutch oven or a large pot over medium high heat. Sauté the chicken for a few minutes until it starts changing color. Add in the onion and garlic and cook for a few more minutes.",
+          "Add in the carrots and potatoes followed by the spices. Give it a nice stir and add the tomato paste and peas. Pour in 4 cups of water and bring it to a simmer.",
+          "Cover and cook for 45 minutes until the vegetables are tender and the chicken is cooked. Finish with some freshly squeezed lemon juice."
         ],
-        "rating": 5
+        "rating": 4.0
       }
     ]
   },
@@ -263,39 +274,49 @@
     "recipe": [
       {
         "_id": 1,
-        "name": "Chicken ",
-        "ingredients": ["Chicken", "Onion", "Soyabin", "Chile", "Tamarind"],
+        "name": "ROASTED CHICKEN AND VEGETABLES",
+        "ingredients": ["Chicken", "Spices", "Vegetables", "Sauce"],
         "steps": [
-          "Place chicken in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+          "In a large bowl mix the lemon juice and olive oil with oregano, paprika, cumin and coriander. Add the chicken and using a pair of tongs, toss it to make sure every piece is coated with the marinade.",
+          "Chop all the vegetables into pieces. Arrange the potatoes, onions and half of the peppers in a deep oven safe dish. Top with the chicken and the remaining peppers, onions and tomatoes. Make the sauce by mixing the olive oil and water with garlic and spices. Drizzle over the chicken and vegetables.",
+          "Roast the chicken and vegetables in the oven at 375 degrees F for about 1 hour until the chicken and vegetables are fully cooked and tender."
         ],
-        "rating": 5
+        "rating": 4.8
       },
       {
         "_id": 2,
-        "name": "Beef Roast",
-        "ingredients": ["Beef", "Onion", "Soyabin", "Chile", "Tamarind"],
-        "steps": [
-          "Place beef and rice in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+        "name": "WHITE BEAN SALAD",
+        "ingredients": [
+          "White beans",
+          "Tomatoes",
+          "Red onion",
+          "Parsley",
+          "Olive oil"
         ],
-        "rating": 4
+        "steps": [
+          "Wash and dry the tomatoes and parsley.",
+          "If using canned beans, make sure you drain the excess water, rinse and drain them and then place them in a large bowl.",
+          " Finely chop the parsley, dice the tomatoes, and add them both to the white beans. Thinly slice the red onion and mix it in to the salad as well. Give it all a nice stir and set it aside. ",
+          "In a small bowl mix sumac, Aleppo pepper, and salt. Add in lemon juice and extra virgin olive oil and stir well. Pour the dressing over the salad and toss it so all the ingredients are incorporated."
+        ],
+        "rating": 4.5
       },
       {
         "_id": 3,
-        "name": "Mutton Curry",
-        "ingredients": ["Mutton", "Onion", "Soyabin", "Chile", "Tamarind"],
-        "steps": [
-          "Place Mutton in crock pot.",
-          "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-          "Pour the water around the roast.",
-          "Cook on low for 7-9 hours."
+        "name": "BRAISED LEEKS",
+        "ingredients": [
+          "Olive oil",
+          "Onion and garlic",
+          "Leeks",
+          "Tomato paste"
         ],
-        "rating": 3
+        "steps": [
+          "Slice off and discard the dark green parts of the leek and trim the end as well. Slice the leek lengthwise and wash it thoroughly, especially the white parts since there might be dirt there. Leave it to dry. Thinly slice the leeks and set aside.",
+          "Heat the olive oil in a pan over medium heat and saute the onion until translucent. Add the leeks followed by the garlic and saute for 10 more minutes.",
+          "Add in the tomato paste, salt and pepper. Stir to combine and then add 1 cup of water. Bring to a low simmer, cover and cook for 30 minutes.",
+          "Add a good glug of olive oil to the braised leeks. Turn the heat off and let it sit for 15 minutes."
+        ],
+        "rating": 3.5
       }
     ]
   }
